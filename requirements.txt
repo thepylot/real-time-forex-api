@@ -1,0 +1,4 @@
+django
+djangorestframework
+beautifulsoup4
+celery
